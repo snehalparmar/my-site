@@ -1,0 +1,229 @@
+SNEHAL PARMAR
+Kildare, Ireland,
+Phone no: +353 89959 8048
+E-mail:- snehaldot@gmail.com
+Stackoverflow Profile: careers.stackoverflow.com/snehal-parmar
+Linkedin Profile: https://in.linkedin.com/in/parmarsnehal
+Skype id: snehaldot,
+Visa Status: Stamp 4 (Ireland)
+EXPERIENCE SUMMARY
+●​ More than 14+ years of professional experience in Information Technology
+●​ Build Locker delivery system (last mile delivery service) with whole system design for Noon
+(e-commerce )
+●​ Most development is done on cloud services like: GCS, AWS, Docker, Kubernetes and using Github
+●​ Mentored team mates and juniors in building new tools and services
+●​ Rich experience in Python 3.0, Django, Flask, MongoDB, Linux, and Java
+●​ Developed Restful API’s using Python frameworks like Flask, FastAPI and Microservice Architecture
+●​ Worked on multiple domains such as Banking, Financial Services and Insurance (BFSI), Telecom, Retail,
+E-commerce, and Power sector
+●​ Received Spot Award for MSCI Project from Synechron Technology
+●​ Received Best Software Developer Award from Reliance Communication
+EDUCATIONAL QUALIFICATIONS
+●​ Master of Technology (Computer Science), Mumbai University, VJTI
+●​ Bachelor of Engineering (Information Technology), Sardar Patel University
+CERTIFICATIONS
+●​ MongoDB for Python Developers Certified
+●​ Red Hat Linux Essentials Certified
+●​ Red Hat Enterprise Linux System Administration Certified
+●​ Red Hat Network Services and Security Administration
+●​ IBM Certified Associate Developer WebSphere Studio V 5.0
+PROJECT EXPERIENCE
+Fenergo:
+Sept 25 - April 26
+Designation: Software Developer
+Description: Transaction monitoring system using AWS cloud infrastructure and maintaining it for different
+tenants and Helping tenants to follow the regulations by different govt.
+Responsibility:
+●​ Maintain different services in AWS cloud infrastructure.
+●​ Actively discuss the solution with Architects and develop solutions.
+●​ Understanding the different design solutions/patterns from AWS cloud provides and integrating in our
+solutions.
+Environment: AWS Dynamodb, AWS Lambda, AWS Elesticcache etc.
+888Spactate, Dublin:​ ​
+​
+​
+​
+​
+May 19 - Sept 25
+Designation: Sr. Software Developer:
+Description: Backend integrations for different components and building new services for supporting customer
+management. The whole system is event driven. Maintain Bet placement system, bet settlement applying new
+changes. Sports feeds normalizer app to process and filter the sports feeds coming from different providers.
+Merging code bases for the acquisition and merger with different organizations. Lots of asynchronous micro
+
+services. Helping and mentoring other juniors working on the complex system and also explaining the decisions
+made for implementation.
+Responsibility:
+●​ Maintain and develop new services which help to scale the system.
+●​ Actively discuss the solution with Architects and develop solutions.
+●​ Helping QA in testing the complex system/ features.
+●​ Understanding the different design solutions/patterns and integrating in our solutions.
+Environment: Twisted Python, Flask, FastAPI, Sanic, Mysql, Mongodb, Redis, RabbitMQ etc.
+Noon.com, Emaar group, Dubai,
+Aug' 17 - May 19
+Designation: Backend Developer,
+Description: Build whole locker service for ecommerce logistics, locker is new mode of last mile delivery system,
+First time deployed in Dubai, I built the first build service from both locker application (Android) and backend
+service ( apis in flask python) . I also work on innovative projects for making online shopping exciting and helpful
+to customers. Currently working on Android app development, python flask and Golang. Building a complete
+end to end product. Also having Juniors who helps me in building the services and maintaining the product. Most
+important is sharing the knowledge and getting the whole team on the same page. Also documenting and testing
+with the help of juniors.
+Responsibility:
+●​ Maintained last mile delivery system for e-commerce
+●​ Mentor to other junior developers and helped the team to test the system.
+●​ Developed the locker system from POC to production with designing software and hardware
+Environment: Python 3.0 Flask, Docker, Kubernetes, GCS, Java, Android and Git.
+JRD Group, Dubai,​
+April 17 - Aug' 17
+Designation: Software Developer,
+Product: JustProperty.com
+Description: Worked on Backend development, developing apis and architecting the solution which is scalable,
+Its a real estate site, helping clients and agents to connect effortlessly and help each other. Using Django, Flask,
+Django Restful API,
+Synechron Technologies Pvt. Ltd., Pune​
+Feb’16 - April 17
+Designation: Lead Technology
+Client: AppNexus
+Description: Advertisements are very similar to stock market, Till now I haven't worked in this vertical, my work
+here is analysis of revenue from ad servers and make dashboards for clients,
+Responsibility:
+●​ Get the relevant data from different data sources like MySQL, Oracle, Vertica or etc using which python
+pandas library
+●​ Filtering the data and data munging using mostly python pandas
+●​ Pushing the analyzed and filtered data to analytics database
+●​ Final step create dashboard from analytics database in Tibco Spotfire
+Client: Morgan Stanley Capital International, Mumbai (MSCI)​
+Feb’16 - Aug 16
+Description: Operations group of the MSCI desired improvement in the way operations data is reported. The
+function of their reporting applications is to analyze the client data and produce financial statistics for clients. An
+integrated, on demand web based reporting application was needed over distributed legacy reporting
+applications. The new integrated web application is to have entitlements, workflow, and integration with
+Salesforce and many enterprise systems.
+Responsibility:
+●​ Analyzed currently running application and proposed pdf conversion tool using open source
+technologies under the existing system
+●​ Implemented the same solution in the application and deployed on production
+Environment: CGI-BIN, Python scripting, ExtJS, Java, Git and RedHat Linux server
+Ecolibrium Energy​
+Designation: Senior Software Developer
+
+Nov'14 - Feb’16
+
+Project: DLMS Communications
+Description: Smart meter reading application, implemented the DLMS communication protocol with meter,
+using Python, Java, NodeJS, Pandas and HDF5.
+Responsibility:
+●​ Analyzed problem with storing data from sensors into the server at very high rate (100 messages per
+second), server getting slow and drops a few messages too
+●​ Found and proposed different solution to avoid the case
+●​ Implemented solution
+Environment: Python, HDF5, Pandas, NumPy, NodeJS, Java, Postgres
+Bigbasket.com​
+Apr’14 - Nov’14
+Designation: Software Developer
+Project: Featured Products​
+Oct’14 - Nov’14
+Description: For Bigbasket.com, the marketing team will find some products which they want to promote for
+some time or for particular brand products more, they will come in the top page as a carousel of list of products.
+This feature is developed in Django 1.3 and Memcached for storing the featured products once a customer visits
+some pages that will be saved in Memcached.
+Responsibilities:
+●​ Responsible for full implementation of all the back-end system
+●​ Get feature products from database and set them up in front page
+Environment: Python, Django, Linux, Memcached, RabbitMQ, Celery
+Project: Related Products​
+Sept’ 14 - Oct’14
+Description: For Bigbasket.com, the marketing team will upload related products which users can buy with some
+products or they want to promote with few products for higher sales. This feature is developed in Django 1.3 and
+Memcached for storing the related products once a customer visits some pages that will be saved in Memcached.
+Responsibilities:
+●​ Responsible for full implementation of all the back-end system and front-end
+●​ Provided recommendations for other products to sell more
+Environment: Python, Django, Linux, Memcached, RabbitMQ, Celery
+Project: Notifyme feature​
+Jul’14 - Sep’14
+Description: For Bigbasket.com, whenever a product gets out of stock, the customer will have a notifyme button
+where he/she can request for notification when the product is available. This uses Django’s back-end signal
+processing, celery and RabbitMQ for sending out notifications async.
+Responsibilities:
+●​ Responsible for implementation of all the back-end system
+●​ UI changes done product page
+●​ Pushing message into the RabbitMQ and then De-queue it and send mail
+Environment: Python, Django, Linux, Memcached, RabbitMQ, Celery
+Freelancer and Asst. Professor (Research projects on embedded systems and Python)
+Dec’12 - Apr’14
+Project: Python Web Crawler Using Scapy​
+Feb’14 - Apr’14
+Description: web-site crawler is made for downloading the details like pdf files, image files and product details
+for mining purpose. Also a csv file is made for keeping track of which files when they are downloaded, using
+Scapy.
+Responsibilities:
+●​ Responsible for design to implementation
+●​ Wrote scripts to pull the data from the given URL and use it to analysis
+Reliance Communication​
+Jul’08 - Jun’12
+Designation: Module Lead
+Project: HTTP Call through​
+Nov’11 - Jun’12
+Description: Building application which can authenticate caller and dial the mobile number caller dialed. Building
+using: Python, Django Framework and Oracle DB.
+Responsibilities:
+
+●​ Designed and implemented an interface which helps a dialer app on mobile to start charging, and have a
+call billed properly in real-time
+●​ Used Python and Django in middleware and rest all in telecom subsystems for billing in real time
+Environment: Python, Django, Java, OpenNMS, Sun Solaris 10
+Project: Workforce Management using LBS(Location Based Services)​
+Nov’10 - Nov’11
+Description: Multiple circles have multiple teams working in different locations so to manage the location of all
+the field operators is traced using LBS (mobile number) and reports are made for circle managers to manage their
+teams in a given location, built using: Java technologies such as JSP, Servlet, Web Service. CR (Change Request/
+Updates) based.
+Responsibilities:
+●​ Maintained code base and resolved issues in the current running system
+●​ Developed new solutions based on the requirements using Java, Telecom Network, and TIBCO
+Environment: Python, Django, Java, OpenNMS, Sun Solaris 10
+Project: 3G billing interface for VOD​
+Mar’10 - Nov’10
+Description: Service for VOD for 3G platform built using open source software such as Joomla, PHP, Python,
+MySQL, and Oracle too. Storing video metadata in MySQL and used for billing purposes in Oracle DB. The billing
+interface is built in PHP and does the billing in real time using real-time charging gateway interface and DB
+procedures. Work with a US company called Smith-micro for Video platform.
+Responsibilities:
+●​ Designed and implemented billing system (PHP and Joomla) which store videos rates in MySQL DB and
+whenever user buy a video, the billing systems should charge the customer according to rates stored in
+MySQL DB
+●​ Worked on 3G value added service for videos, designing, and implementation
+Environment: Python, Django, Java, OpenNMS, Sun Solaris 10
+Project: Location Based Services​
+Sep’09 - Mar’10
+Description: Through a web portal we add any mobile then we can monitor the location of that mobile for which
+the information is stored in the database and helps to generate reports. Also the SMS based support is provided
+using SMPP protocol to send and receive SMS from mobile (ESME application). CR (change request/ updates)
+based.
+Responsibilities:
+●​ Maintained system and provided support for the currently running system
+●​ Developed new features based new requirements using Telecom Network and Java
+Environment: Python, Django, Java, OpenNMS, Sun Solaris 10
+Project: OpenNMS​
+Jul’08 - Apr’09
+Description: Network Management tool, open source software which is purely written in Java and fully open
+source tool to manage any network device and any service also, i.e. JVM can also manage their traps which can
+alert in the form of SMS or email to their admin or admin team.
+Responsibilities:
+●​ Designed and implemented proof of concept
+●​ Implemented for ticketing system generating, and maintained whole network and network devices using
+SNMP and OpenNMS
+●​ Implemented Perl Script to get network details
+Achievements:
+●​ Award Winner for best software in Telecom in Reliance Communication
+Environment: Python, Django, Java, OpenNMS, Sun Solaris 10
+PERSONAL DETAILS:
+Hobbies: Music, Reading books (about Linux, Unix and new technologies) , study of big data and the Stock Market.
+
+Strength: Motivator, Hardworking, Team builder and Willingness to learn new technologies.​
+Marital Status: Married
+Citizenship: Indian
+
+
